@@ -29,6 +29,16 @@ Imagine uma torre com 5 salas conectadas em um ciclo (Sala 1 → Sala 2 → Sala
  # Comando
  Construir um autômato e o supervisor utilizando o software Supremica.
 
+ # Implementação
+Foi realizado a modelagem de 5 autômatos correspondentes a cada uma das 5 salas, onde cada sala possui 4 estados:
+
+- Vazia;
+- Apenas o gato na sala;
+- Apenas o rato na sala;
+- Gato e Rato na sala.
+
+Este último estado é o estado indesejado para cada um desses autômatos, portanto, foram marcados como proibidos (forbidden). Os eventos de movimento do rato foram considerados controláveis quando este se move entre salas conectadas por portas e incontroláveis quando se locomovem entre salas sem portas.
+
  # Autor
 
  [Yan Abrantes](https://github.com/yanz1n)
