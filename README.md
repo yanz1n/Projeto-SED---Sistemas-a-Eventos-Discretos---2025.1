@@ -52,7 +52,7 @@ Este último estado é o estado indesejado para cada um desses autômatos, porta
  [Slides utilizado no vídeo descrevendo o sistema](https://github.com/yanz1n/Projeto-SED---Sistemas-a-Eventos-Discretos---2025.1/blob/main/Apresentacao_ProjetoSED.pdf)
 
  # Esquema Utilizado
-[Esquema do Sistema](https://github.com/yanz1n/Projeto-SED---Sistemas-a-Eventos-Discretos---2025.1/blob/main/Esquema_remodelado.png)
+![Esquema do Sistema](https://github.com/yanz1n/Projeto-SED---Sistemas-a-Eventos-Discretos---2025.1/blob/main/Esquema_remodelado.png)
 
  # Vídeo Demonstrativo
  
